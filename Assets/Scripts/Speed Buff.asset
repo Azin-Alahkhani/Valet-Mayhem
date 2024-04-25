@@ -1,0 +1,16 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8fbd13a4bd7f23349b1b3076b0ba18cb, type: 3}
+  m_Name: Speed Buff
+  m_EditorClassIdentifier: 
+  SpeedPlus: 70
+  bubblePrefab: {fileID: 723550536298303332, guid: 34ec57e6cb0ae9648ab9d1e8366ac507, type: 3}

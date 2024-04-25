@@ -1,0 +1,70 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Player2
+  - Player3
+  - Player4
+  - Player5
+  - Player6
+  - Player7
+  - Player8
+  - pickedUpCar
+  - freeCar
+  - CarCOLLL
+  - CARAC
+  - Walls
+  - explosion
+  - SpeedBump
+  - TrafficCone
+  - Water
+  - test
+  - Parking
+  - OutOfBounds
+  - Barrier
+  - InBounds
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Cars
+  - Water
+  - UI
+  - test
+  - Ground
+  - ParkingSpace
+  - CarCOL
+  - WAAALLLS
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: BackGround
+    uniqueID: 1320201943
+    locked: 0
+  - name: SkidMarks
+    uniqueID: 570825533
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
